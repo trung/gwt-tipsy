@@ -1,0 +1,44 @@
+.cw-Tipsy {
+	padding: 5px;
+	font-size: 11px;
+	text-shadow: 1px 1px 0 #000;
+	opacity: .8;
+	filter: alpha(opacity = 80);
+	background-repeat: no-repeat;
+	position:absolute;
+}
+
+.cw-Tipsy-inner {
+	padding: 5px 8px 4px 8px;
+	background-color: black;
+	color: white;
+	max-width: 235px;
+	text-align: center;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+
+.cw-Tipsy-north {
+	background-image: url(/images/tipsy-north.gif);
+	background-position: top center;
+}
+
+.cw-Tipsy-south {
+	background-image: url(/images/tipsy-south.gif);
+	background-position: bottom center;
+}
+
+.cw-Tipsy-east {
+	background-image: url(/images/tipsy-east.gif);
+	background-position: right center;
+}
+
+.cw-Tipsy-west {
+	background-image: url(/images/tipsy-west.gif);
+	background-position: left center;
+}
+
+.cw-Tipsy-west .cw-Tipsy-inner {
+	text-align: left;
+}
+
