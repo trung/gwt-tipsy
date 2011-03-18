@@ -1,7 +1,7 @@
 Handy GWT widget to display tooltips, notification, validation message ...
 
-Especially, using GitHub tipsy css
+Especially, using GitHub tipsy css!!!
 
-![Alt text](screenshots/left.PNG?raw=true)
+![Validation message displays on the left](screenshots/left.PNG?raw=true)
 
-![Alt text](screenshots/top.PNG?raw=true)
+![Validation message displays on the top](screenshots/top.PNG?raw=true)
